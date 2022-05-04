@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gkIyNGkxxakM6+ttYEFlzIJVEpojzlSghzyzkKhmZgI=",
+  "Source": "SwaggerOpenApiSupport",
+  "BasePath": "_content/SwaggerOpenApiSupport",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
